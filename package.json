@@ -1,5 +1,5 @@
 {
-  "name": "@moncici/binance",
+  "name": "@0xbenjamin1/binance",
   "version": "1.0.3",
   "description": "",
   "type": "module",
@@ -9,24 +9,24 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/moncici007/binance"
+    "url": "https://github.com/liang1981/binance"
   },
-  "website": "https://github.com/moncici007/binance.git",
+  "website": "https://github.com/liang1981/binance.git",
   "keywords": [
     "binance",
     "client",
     "arbitrim"
   ],
-  "author": "moncici007",
+  "author": "0xbenjamin1",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/moncici007/binance/issues"
+    "url": "https://github.com/liang1981/binance/issues"
   },
   "publishConfig": {
     "access": "public",
     "registry": "https://registry.npmjs.org"
   },
-  "homepage": "https://github.com/moncici007/binance#readme",
+  "homepage": "https://github.com/liang1981/binance#readme",
   "dependencies": {
     "@moncici/date-time-processor": "^1.0.3",
     "@moncici/log": "^1.0.2",
